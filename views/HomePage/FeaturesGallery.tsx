@@ -10,25 +10,25 @@ import { media } from 'utils/media';
 
 const TABS = [
   {
-    title: 'Find relevant media contacts - multiline title',
+    title: 'Sinais estratégicos para você agir com precisão',
     description:
-      '<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam quidem ipsam ratione dicta quis cupiditate consequuntur laborum ducimus iusto velit.</p>',
-    imageUrl: '/demo-illustration-3.png',
+      '<p>Receba +200 alertas diários em tempo real, filtrados por inteligência artificial para destacar apenas as oportunidades com maior potencial de retorno. Ideal para quem quer acompanhar mercados dinâmicos sem perder o timing.</p>',
+    imageUrl: '/resultado_sinal.png',
     baseColor: '249,82,120',
     secondColor: '221,9,57',
   },
   {
-    title: 'Another amazing feature',
+    title: 'Aprenda com o passado para dominar o futuro',
     description:
-      '<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam quidem ipsam ratione dicta quis cupiditate consequuntur laborum ducimus iusto velit.</p>',
-    imageUrl: '/demo-illustration-4.png',
+      '<p>Acesse análises detalhadas de +10 mil eventos esportivos, com estatísticas de desempenho, padrões de apostas e lições estratégicas. Use esses dados para refinar suas táticas e evitar erros comuns.</p>',
+    imageUrl: '/comprovacao_sinais.png',
     baseColor: '57,148,224',
     secondColor: '99,172,232',
   },
   {
-    title: 'And yet... another truly fascinating feature',
+    title: 'Resultados reais, inspiração garantida',
     description:
-      '<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam quidem ipsam ratione dicta quis cupiditate consequuntur laborum ducimus iusto velit.</p>',
+      '<p>Veja como nossos usuários alcançaram médias de 72% de acertos em apostas esportivas no último mês.</p>',
     imageUrl: '/demo-illustration-5.png',
     baseColor: '88,193,132',
     secondColor: '124,207,158',
@@ -76,7 +76,7 @@ export default function FeaturesGallery() {
   return (
     <FeaturesGalleryWrapper>
       <Content>
-        <OverTitle>features</OverTitle>
+        <OverTitle>ENTENDA MELHOR SOBRE OS NOSSOS SERVIÇOS </OverTitle>
         <SectionTitle>O QUE PODEMOS OFERECER PARA VOCÊ ?</SectionTitle>
       </Content>
       <GalleryWrapper>
